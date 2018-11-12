@@ -3,10 +3,10 @@
 #TODO: Screenshots
 ## Creation of Storage Pools
 We started at Pool ID 10
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 ## Adding Pools to groups
 Go to each LUN and add the storage group
 ## Rescan RHEL devices
