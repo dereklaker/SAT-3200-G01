@@ -4,7 +4,7 @@
 ## Creation of Storage Pools
 We started at Pool ID 10
 |ID|Level|Title|Size|Mountpoint|
-|--|--|--|--|--|
+|---|---|---|---|---|
 |10|RAID5|group1-homes|300GB|/storage/home
 |11|RAID10|group1-database|300GB|/storage/database
 |12|RAID10|group1-finance-hr|200GB|/storage/finance-hr
