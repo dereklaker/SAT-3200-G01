@@ -23,7 +23,7 @@ This is also detailed in the lab 2 discussion
 ![](https://media.discordapp.net/attachments/489942840827183125/511642910459166731/unknown.png)
 Make sure you commit with:
 ```
-zone commit zsan 1
+zone commit vsan 1
 ```
 ## Refreshing the LUN Groups:
 Refresh the existing LUN initiator by going to Storage->Initiators then,
