@@ -31,7 +31,7 @@ Or use `fdisk`
 
 ## bonnie++ testing
 `bonnie++ -d /path/to/test -u USERNAME > /path/to/log/out.log`
-`bonnie++ -d /path/to/directory -u USERNAME > $(date +%Y%m%d-%H%M%S).log
+`bonnie++ -d /path/to/directory -u USERNAME > $(date +%Y%m%d-%H%M%S).log`
 
 ## Performance testing
 - Storage
